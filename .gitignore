@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/CommonUITutorial/.idea
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+/CommonUITutorial/*.vsconfig
